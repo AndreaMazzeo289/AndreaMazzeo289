@@ -1,8 +1,10 @@
 <img title="homepageBanner" src="/assets/WelcomeBanner.png">
 
-#### I'm a software engineer 
+## I'm a software engineer 
 
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" />
+***
+
+<img src="./assets/softwareEngineer.gif" width="480" height="360" />
 
 <!--
 **AndreaMazzeo289/AndreaMazzeo289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
