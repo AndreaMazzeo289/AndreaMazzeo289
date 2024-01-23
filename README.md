@@ -1,4 +1,4 @@
-### Hi there 👋
+<img title="homepageBanner" src="/assets/WelcomeBanner.png">
 
 <!--
 **AndreaMazzeo289/AndreaMazzeo289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
